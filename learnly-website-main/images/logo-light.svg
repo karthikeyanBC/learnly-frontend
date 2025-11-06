@@ -1,0 +1,9 @@
+<svg width="130" height="32" viewBox="0 0 130 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <path d="M4 2.66663H16C21.5228 2.66663 26 7.14378 26 12.6666V26.6666C26 28.8758 24.2091 30.6666 22 30.6666H8C6.89543 30.6666 6 29.7712 6 28.6666V2.66663Z" fill="#4F46E5"/>
+    <path d="M6 14.6666H16C18.2091 14.6666 20 16.4575 20 18.6666V26.6666C20 28.8758 18.2091 30.6666 16 30.6666H8C6.89543 30.6666 6 29.7712 6 28.6666V14.6666Z" fill="#818CF8"/>
+  </g>
+  <text fill="white" style="white-space: pre" font-family="Manrope, sans-serif" font-size="24" font-weight="800" letter-spacing="-0.05em">
+    <tspan x="42" y="25">Learnly</tspan>
+  </text>
+</svg>
